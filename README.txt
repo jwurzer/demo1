@@ -5,11 +5,6 @@ afdsjadfs
 adfs
 fdas
 ad
-fs
-adfs
-adfs
-adfs
-adfs
 adf
 s
 dafs

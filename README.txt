@@ -3,4 +3,4 @@ jlkadsf
 
 das sind wichtige infos
 
-JÃ¼rgen
+Jürgen

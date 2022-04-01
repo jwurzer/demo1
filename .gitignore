@@ -1,0 +1,11 @@
+# das ist ein kommentar
+
+# einzelnes file macht oft keinen sinn
+#/asdf.class
+
+# besser gleich alle class files nicht erlaubt
+*.class
+
+/build
+
+/passwort.php
